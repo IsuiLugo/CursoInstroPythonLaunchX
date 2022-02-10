@@ -2,7 +2,7 @@
 En este curso propedeutico comprendemos, y nos enfrentamos a retos básicos para preparar el viaje, más conocida esta fase como Onboarding.
 Los temas vistos son:
 
-Prepara el entorno de trabajo
+Prepara el entorno de trabajo\n
 Primeros pasos
 Crear proyectos
 Lógica
